@@ -5,5 +5,5 @@ import "fmt"
 func main() {
 	a := 5
 	b := 6
-	fmt.Printf("Sum of %d + %d = %d", a, b, a+b)
+	fmt.Printf("%d + %d = %d", a, b, a+b)
 }
